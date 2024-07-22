@@ -1,0 +1,22 @@
+{{static row numbers}}{{mw-datatable}}{{sticky header}}{{sort under}}
+{| class="wikitable sortable mw-datatable static-row-numbers sticky-header-multi sort-under" style=text-align:right;
+|-
+! rowspan=2 style="vertical-align:middle;"|[[United Nations geoscheme|UN subregions]]
+! colspan=4|2023
+! colspan=9 style="border-left-width:2px;"|Historical data
+! rowspan=2 style="border-left-width:2px; text-align:middle;"|{{nobr|Recovery from}}<br>[[COVID-19]]:<br>2019→2023
+! rowspan=2 style="border-left-width:2px; text-align:middle;"|{{tooltip|Population<br>(thous.)|Total population, as of 1 July 2023, in thousands}}
+|-
+! style="vertical-align:middle;width:4em;"|All
+! style="vertical-align:middle;"|Male
+! style="vertical-align:middle;"|Female
+! style="vertical-align:middle; width:3em;"|{{tooltip|Sex gap|Difference in life expectancy for female and male}}
+! style="border-left-width:2px; vertical-align:middle; width:4em; padding-left:1em;"|2019
+! style="text-align:left;"|{{tooltip|2019<br>→2020|Change of life expectancy from 2019 to 2020}}
+! style="vertical-align:middle; width:3em;"|2020
+! style="text-align:left;"|2020<br>→2021
+! style="vertical-align:middle; width:3em;"|2021
+! style="text-align:left;"|2021<br>→2022
+! style="vertical-align:middle; width:3em;"|2022
+! style="text-align:left;"|2022<br>→2023
+! style="vertical-align:middle; width:3em;"|2023
