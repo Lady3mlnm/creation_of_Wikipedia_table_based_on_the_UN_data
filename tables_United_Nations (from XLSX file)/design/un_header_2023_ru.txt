@@ -1,0 +1,27 @@
+{{static row numbers}}
+{| {{static row numbers table}}
+|- {{static row numbers header}}
+! rowspan=2 style="vertical-align:middle;"|Страны и<br>территории
+! colspan=4|2023
+! colspan=11 style="border-left-width:2px;"|Исторические данные
+! colspan=2 style="border-left-width:2px;"|Эффект [[Пандемия COVID-19|COVID-19]]
+! rowspan=2|
+|- {{static row numbers header}}
+! style="vertical-align:middle;width:4em;"|{{comment|Общая|Всё население в среднем}}
+! style="vertical-align:middle;"|{{comment|М|Мужчины}}
+! style="vertical-align:middle;"|{{comment|Ж|Женщины}}
+! style="vertical-align:middle; width:3.5em;"|{{comment|ЖΔМ|Разница в продолжительности жизни между женщинами и мужчинами}}
+! style="border-left-width:2px; vertical-align:middle; width:4em; padding-left:1em;"|2014
+! style="text-align:left;"|{{comment|2014<br>→2019|Изменение в продолжительности жизни между 2014 и 2019 годами}}
+! style="vertical-align:middle; width:3em;"|2019
+! style="text-align:left;"|2019<br>→2020
+! style="vertical-align:middle; width:3em;"|2020
+! style="text-align:left;"|2020<br>→2021
+! style="vertical-align:middle; width:3em;"|2021
+! style="text-align:left;"|2021<br>→2022
+! style="vertical-align:middle; width:3em;"|2022
+! style="text-align:left;"|2022<br>→2023
+! style="vertical-align:middle; width:3em;"|2023
+! style="border-left-width:2px; text-align:middle;"|2019<br>→2023
+! style="text-align:middle;"|2014<br>→2023
+|-{{static row numbers arrows|19}}
