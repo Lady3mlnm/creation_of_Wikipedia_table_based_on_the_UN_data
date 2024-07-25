@@ -1,12 +1,12 @@
-{{static row numbers}}
-{| {{static row numbers table}}
-|- {{static row numbers header}}
+{{static row numbers}}{{sticky header}}{{table alignment}}
+{| class="wikitable sortable static-row-numbers sticky-header-multi sort-under col1left col7right col9right col11right col13right col15right col17right col18right" style="text-align:center;"
+|-
 ! rowspan=2 style="vertical-align:middle;"|Страны и<br>территории
 ! colspan=4|2023
 ! colspan=11 style="border-left-width:2px;"|Исторические данные
 ! colspan=2 style="border-left-width:2px;"|Эффект [[Пандемия COVID-19|COVID-19]]
 ! rowspan=2|
-|- {{static row numbers header}}
+|-
 ! style="vertical-align:middle;width:4em;"|{{comment|Общая|Всё население в среднем}}
 ! style="vertical-align:middle;"|{{comment|М|Мужчины}}
 ! style="vertical-align:middle;"|{{comment|Ж|Женщины}}

@@ -1,5 +1,5 @@
-{{static row numbers}}{{mw-datatable}}{{sticky header}}{{sort under}}
-{| class="wikitable sortable mw-datatable static-row-numbers sticky-header-multi sort-under" style=text-align:right;
+{{static row numbers}}{{mw-datatable}}{{sticky header}}{{sort under}}{{table alignment}}
+{| class="wikitable sortable mw-datatable static-row-numbers sticky-header-multi sort-under col1left col7right col9right col11right col13right col15right" style="text-align:center;"
 |-
 ! rowspan=2 style="vertical-align:middle;"|Countries and<br>territories
 ! colspan=4|2023
